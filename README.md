@@ -1,4 +1,4 @@
-# Redux Photo Gallery
+## Redux Photo Gallery
 
 A React application that showcases a photo gallery powered by Redux Toolkit. It features asynchronous data fetching, middleware logging, and integration with Redux DevTools for efficient state management and debugging.
 
